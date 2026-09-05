@@ -114,8 +114,10 @@ Java
 Backend
  ├── JDBC
  ├── Servlets
- ├── Spring
+ ├── Spring Core
  ├── Spring Boot
+ ├── Spring MVC
+ ├── Spring Data JPA
  └── Hibernate / JPA
 
 Frontend
@@ -127,6 +129,7 @@ Frontend
 Database
  ├── SQL
  ├── MySQL
+ ├── OracleSQL
  └── PostgreSQL
 ```
 
