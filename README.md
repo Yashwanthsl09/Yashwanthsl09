@@ -145,13 +145,14 @@ I'm looking for opportunities as a **Java Developer / Java Full Stack Developer*
 
 📧 **Email:** [yashwanthsl2005@gmail.com](mailto:yashwanthsl2005@gmail.com)
 
+🌐 **Portfolio:** [yashwanthsl-portfolio.vercel.app](https://yashwanthsl-portfolio.vercel.app/)
+
 💼 **LinkedIn:** [Yashwanth S L](https://linkedin.com/in/yashwanth-s-l)
 
 💻 **GitHub:** [Yashwanthsl09](https://github.com/Yashwanthsl09)
 
 🧩 **LeetCode:** [Yashwanth09_2005](https://leetcode.com/u/Yashwanth09_2005/)
 
-🌐 **Portfolio:** [yashwanthsl-portfolio.vercel.app](https://yashwanthsl-portfolio.vercel.app/)
 
 ---
 
