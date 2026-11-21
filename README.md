@@ -129,7 +129,9 @@ Frontend
  ├── HTML
  ├── CSS
  ├── JavaScript
- └── React.js
+ ├── React.js
+ ├── BootStrap
+ └── TailwindCSS
 
 Database
  ├── SQL
