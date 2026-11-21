@@ -11,7 +11,7 @@ Currently building my skills in **Java Full Stack Development** and working on r
 ## 🚀 About Me
 
 * 🎓 Electronics & Communication Engineering Graduate
-* 💻 Aspiring **Java Developer / Java Full Stack Developer**
+* 💻 Aspiring **Java Developer / Java Full Stack Developer / React.js Developer / Frontend Developer**
 * ☕ Strong foundation in **Core Java & OOP**
 * 🌱 Currently learning and building applications with **Spring Boot & React.js**
 * 🗄️ Interested in **Backend Development, REST APIs & Databases**
@@ -136,6 +136,12 @@ Database
  ├── MySQL
  ├── OracleSQL
  └── PostgreSQL
+
+AI tools
+ ├── ChatGPT
+ ├── Claude AI
+ ├── Cursor
+ └── Google Antigravity
 ```
 
 ---
