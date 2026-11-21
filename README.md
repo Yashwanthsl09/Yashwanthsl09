@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashwanth S L
 
-### 💻 Java Full Stack Developer | Java Developer | Problem Solver
+### 💻 Java Full Stack Developer | Java Developer | React.js Developer| Frontend Developer | Problem Solver
 
 I'm an **Electronics and Communication Engineering graduate** passionate about software development and problem-solving. I have a strong foundation in **Core Java, OOP, Data Structures & Algorithms, SQL, Spring Boot, React.js, and web technologies**.
 
